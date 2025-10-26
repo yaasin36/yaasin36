@@ -48,6 +48,8 @@ Currently deepening my expertise in **Python**, exploring its potential in **dat
 📁 [Repo](https://github.com/yaasin36/ManajemenKoperasi)  
 ![Management Komerasi](img/Project/KopkarPLN.png)
 
+
+
 ---
 
 ### 🏪 Website Cafe Sejuk
@@ -87,4 +89,3 @@ Currently deepening my expertise in **Python**, exploring its potential in **dat
 
 ---
 
->>>>>>> 43848b1 (update)
