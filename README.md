@@ -1,4 +1,3 @@
-
 <div align="center">
 
 # 👋 Hi, I'm Ahmad Yaasin
@@ -43,12 +42,10 @@ Currently deepening my expertise in **Python**, exploring its potential in **dat
 
 ### 🛒 Financial Management App Koperasi
 **Tech Stack:** HTML, SCSS, JavaScript  
-📄 A web-based application for Koperasi Karyawan PLN Lumintu  that simplifies the management of member data, savings, loans, and financial reports. Designed to be efficient, accurate, and transparent, it supports the digitalization of cooperative finance through real-time tracking and a user-friendly interface..
+📄 A web-based application for Koperasi Karyawan PLN Lumintu  that simplifies the management of member data, savings, loans, and financial reports. Designed to be efficient, accurate, and transparent, it supports the digitalization of cooperative finance through real-time tracking and a user-friendly interface.
 
-📁 [Repo](https://github.com/yaasin36/ManajemenKoperasi)  
+📁 *Private Repository*  
 ![Management Komerasi](img/Project/KopkarPLN.png)
-
-
 
 ---
 
@@ -64,6 +61,7 @@ Currently deepening my expertise in **Python**, exploring its potential in **dat
 ### 💼 Financial Management Coorporate
 **Tech Stack:** Laravel, PHP, CSS  
 📄 A web-based financial management system built with Laravel to manage income, expenses, and financial reports efficiently. Designed for corporate use, it ensures data accuracy, automation, and easy monitoring of financial activities through a clean and secure interface.
+
 📁 [Repo](https://github.com/yaasin36/PencatatanKeuangan)  
 ![Laravel App](img/Project/PencatatanKeuangan.png)
 
@@ -88,4 +86,3 @@ Currently deepening my expertise in **Python**, exploring its potential in **dat
 * 🏅 Certified in Ethical Hacking (Digital Talent) & Video Content Creation for Higher Education
 
 ---
-
